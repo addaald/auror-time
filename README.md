@@ -1,4 +1,3 @@
-# Readme
 # Auror Time
 
 **Auror Time is an aesthetic time and task tracker for more intentional work.**
